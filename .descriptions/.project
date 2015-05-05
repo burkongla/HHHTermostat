@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project
+    version="1.0.0" 
+    uuid="_Aun_EPLLEeS2EYyPxEr2Fg" 
+    >
+    <dependencies>
+        <dependency name="com.bitreactive.library.buffering" uuid="_oelmQPDwEeCxK4vi80n1Xg" version="3.10.0" indirect="true"/>
+        <dependency name="com.bitreactive.library.mqtt" uuid="_iVDkMOJLEeGulKFN7xtCsw" version="2.9.2"/>
+        <dependency name="com.bitreactive.library.timers" uuid="_b0djMBzFEeGAXOPaKszhRg" version="1.5.0" indirect="true"/>
+    </dependencies>
+</project>
